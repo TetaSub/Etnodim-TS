@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "Raleway Bold";
+  src: url(./Fonts/RalewayFont/RalewayFont/Raleway-Bold.woff) format("woff"), url(./Fonts/RalewayFont/RalewayFont/Raleway-Bold.woff) format("woff"), url(./Fonts/RalewayFont/RalewayFont/Raleway-Bold.ttf) format("ttf");
+  font-weight: 700;
+  font-display: fallback;
+}
+@font-face {
+  font-family: "Raleway Regular";
+  src: url(./Fonts/RalewayFont/RalewayFont/Raleway-Regular.woff) format("woff"), url(./Fonts/RalewayFont/RalewayFont/Raleway-Regular.ttf) format("ttf");
+  font-weight: 400;
+  font-display: fallback;
+}
+@font-face {
+  font-family: "Raleway Light";
+  src: url(./Fonts/RalewayFont/RalewayFont/Raleway-Light.woff) format("woff"), url(./Fonts/RalewayFont/RalewayFont/Raleway-Light.ttf) format("ttf");
+  font-weight: 300;
+  font-display: fallback;
+}
+@font-face {
+  font-family: "Dela Gothic One";
+  src: url(./Fonts/DelaGothicOne/DelaGothicOne/DelaGothicOne-Regular.woff2) format("woff2"), url(./Fonts/DelaGothicOne/DelaGothicOne/DelaGothicOne-Regular.woff) format("woff"), url(./Fonts/DelaGothicOne/DelaGothicOne/DelaGothicOne-Regular.ttf) format("ttf");
+  font-weight: 400;
+  font-display: fallback;
+}/*# sourceMappingURL=fonts.css.map */
